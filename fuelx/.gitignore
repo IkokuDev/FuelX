@@ -1,0 +1,11 @@
+node_modules/
+dist/
+coverage/
+public/js/
+public/vendor/
+uploads/
+.env
+.env.local
+*.log
+.DS_Store
+.mongo-memory/
